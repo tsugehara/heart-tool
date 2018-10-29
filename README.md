@@ -2,6 +2,8 @@
 
 **ハートを出すツール**は実験放送向けの放送ツールです。
 
+![スクリーンショット](./img/screenshot.png)
+
 [Akashic Engine](https://akashic-games.github.io/)で制作されています。
 
 このツールの制作の流れは、以下の記事で公開されています。
