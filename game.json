@@ -19,7 +19,10 @@
 	"environment": {
 		"sandbox-runtime": "2",
 		"niconico": {
-			"supportedModes": ["single"]
+			"supportedModes": [
+				"single",
+				"multi"
+			]
 		}
 	}
 }
