@@ -14,6 +14,18 @@
 			"width": 64,
 			"height": 64,
 			"path": "image/heart.png"
+		},
+		"spade": {
+			"type": "image",
+			"width": 64,
+			"height": 64,
+			"path": "image/spade.png"
+		},
+		"sparkle": {
+			"type": "image",
+			"width": 64,
+			"height": 64,
+			"path": "image/sparkle.png"
 		}
 	},
 	"environment": {
