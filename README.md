@@ -12,8 +12,7 @@
 
 このツールをマルチプレーに対応させた様子は、以下のブロマガで公開されています。
 
-- TODO: ブロマガへのリンク
-
+- http://ch.nicovideo.jp/shin-ichiba/blomaga/ar1697055
 
 ## 利用方法
 
